@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Ferdiansyah Annora is a third-year student at Gunadarma University, focusing on front-end development and 
+Android app development. Proficient in HTML, CSS, and JavaScript, with a skill set extending to C++ for competitive programming. Actively contributing to Android projects, the priority is placed on ensuring the development of seamless user experiences.
+
 <!--
 **ferdianrra/ferdianrra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
