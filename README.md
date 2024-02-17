@@ -3,6 +3,12 @@
 Ferdiansyah Annora is a third-year student at Gunadarma University, focusing on front-end development and 
 Android app development. Proficient in HTML, CSS, and JavaScript, with a skill set extending to C++ for competitive programming. Actively contributing to Android projects, the priority is placed on ensuring the development of seamless user experiences.
 
+<p align="left">
+<a href="https://github.com/ferdianrra">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferdianrra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdianrra&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **ferdianrra/ferdianrra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
