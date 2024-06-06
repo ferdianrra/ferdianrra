@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Ferdiansyah Annora is a third-year student at Gunadarma University, focusing on front-end development and 
-Android app development. Proficient in HTML, CSS, and JavaScript, with a skill set extending to C++ for competitive programming. Actively contributing to Android projects, the priority is placed on ensuring the development of seamless user experiences.
+Ferdiansyah Annora, a third-year student at Universitas Gunadarma, has a strong focus on Android Development using Kotlin. His primary interest lies in creating user-friendly interfaces for mobile applications. He has actively contributed to several Android projects, prioritizing the creation of smooth and engaging user experiences.
 
 <p align="left">
 <a href="https://github.com/ferdianrra">
