@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Ferdiansyah Annora, a third-year student at Universitas Gunadarma, has a strong focus on Android Development using Kotlin. His primary interest lies in creating user-friendly interfaces for mobile applications. He has actively contributed to several Android projects, prioritizing the creation of smooth and engaging user experiences.
+Ferdiansyah Annora is a fresh graduate in Informatics from Universitas Gunadarma with 1 year of experience as a Mobile Developer. He has a strong interest in mobile development, is experienced in using Kotlin and Flutter, and prioritizes writing clean and well-structured code to ensure maintainable and efficient mobile applications.
 
 <p align="left">
 <a href="https://github.com/ferdianrra">
